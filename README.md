@@ -119,7 +119,7 @@ public class TicketMachine
 
 ## **Penjelasan**
 
-**Attribute
+**Attribute**
 
 ```java
     private int price; 
