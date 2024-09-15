@@ -250,4 +250,4 @@ Method ini digunakan untuk menambah atau top-up uang yang dimiliki oleh customer
     }
 ```
 
-Method ini digunakan untuk menghandle sistem pembelian tiket. Ketika uang dari customer cukup untuk membeli tiket, maka tiket akan tercetak, lalu `total` dan `balace` akan diupdate. Jika uang customer tidak cukup, sistem akan mencetak pesan error serta berapa kekurangan uamg yang dibutuhkan oleh customer untuk membeli tiket.
+Method ini digunakan untuk menghandle sistem pembelian tiket. Ketika uang dari customer cukup untuk membeli tiket, maka tiket akan tercetak, lalu `total` dan `balance` akan diupdate. Jika uang customer tidak cukup, sistem akan mencetak pesan error serta berapa kekurangan uamg yang dibutuhkan oleh customer untuk membeli tiket.
